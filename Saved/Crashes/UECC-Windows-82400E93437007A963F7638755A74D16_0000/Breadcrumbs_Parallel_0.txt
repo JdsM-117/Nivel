@@ -1,0 +1,5 @@
+Breadcrumbs 'Parallel'
+ - FRDGBuilder::SubmitBufferUploads
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 128172
